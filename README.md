@@ -30,13 +30,13 @@ The project is created with:
 - **Place Order Interface**
 >![][3]
 
-[1]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main.png
-[2]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-main-customer.png
-[3]: https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/src/asset/screenshots/pos-placeorder.png
+[1]: https://github.com/IrushiSalwathura/-point-of-sales-system-hibernate-maven/blob/master/src/main/resources/asset/screenshots/pos-main.png
+[2]: https://github.com/IrushiSalwathura/-point-of-sales-system-hibernate-maven/blob/master/src/main/resources/asset/screenshots/pos-main-customer.png
+[3]: https://github.com/IrushiSalwathura/-point-of-sales-system-hibernate-maven/blob/master/src/main/resources/asset/screenshots/pos-placeorder.png
 
 
 ## License
-[MIT](https://github.com/IrushiSalwathura/point-of-sales-system-layered/blob/master/LICENSE.txt)
+[MIT](https://github.com/IrushiSalwathura/-point-of-sales-system-hibernate-maven/blob/master/LICENSE.txt)
 
 
 
